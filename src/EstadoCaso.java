@@ -1,0 +1,3 @@
+public enum EstadoCaso {
+    RESCATADO, EN_TRATAMIENTO, EN_ADOPCION, ADOPTADO
+}
